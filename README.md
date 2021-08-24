@@ -1,3 +1,3 @@
 # PullOverPush
 
-Exemple of PullOverPush Solidity
+Example of PullOverPush Solidity
